@@ -1,0 +1,9 @@
+main {
+    min-height: calc(100vh - 160px);
+  }
+
+.img-fixed {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
